@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768628180021",
+    "project_id": "miaged-467df",
+    "storage_bucket": "miaged-467df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768628180021:android:0e1671eaf09ad7228a1d7c",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.a_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768628180021-fuaj3q1l9d21d3h7ns2ode68975n0bc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwmLRjOsOszq3J-ePHtaoDVYWBg8SDI_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768628180021-fuaj3q1l9d21d3h7ns2ode68975n0bc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
